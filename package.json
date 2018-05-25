@@ -1,0 +1,28 @@
+{
+  "name": "infinity-cursor-mongoose",
+  "version": "0.0.1",
+  "description": "module to iterate over a query",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/infinity-cursor-mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "cursor",
+    "query",
+    "iterate"
+  ],
+  "author": "Jesus Edel Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/infinity-cursor-mongoose/issues"
+  },
+  "homepage": "https://github.com/Cereceres/infinity-cursor-mongoose#readme",
+  "devDependencies": {
+    "mongoose": "^5.1.2"
+  }
+}
